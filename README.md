@@ -4,11 +4,11 @@ A simple and user-friendly To-Do List application that helps users manage their 
 
 ##  Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 📋 View and manage daily tasks
-- 🎨 Simple and clean user interface
+- Add new tasks
+-  Mark tasks as completed
+-  Delete tasks
+-  View and manage daily tasks
+-  Simple and clean user interface
 
 ##  Technologies Used
 
@@ -49,8 +49,6 @@ The objective of this project is to practice HTML, CSS, and JavaScript by buildi
 
 **Prince Kumar**
 
-
-
 ---
 
-⭐ If you like this project, consider giving the repository a star!
+ If you like this project, consider giving the repository a star!
